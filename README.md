@@ -45,6 +45,6 @@ Let’s connect if you’re interested in transforming ideas into impactful solu
 Let's make something great together. Here’s how you can reach me:
 
 - 📧 **Email:** [edilson.mandlate@outlook.com](mailto:edilson.mandlate@outlook.com)
-- 🔗 **LinkedIn:** [Edilson Manjate](https://www.linkedin.com/in/emanjate/)
+- 🔗 **LinkedIn:** [Edilson Manjate](https://www.linkedin.com/in/edilson-manjate/)
 
 Thanks for dropping by my GitHub! Whether you're here to fork, star, or chat, I’m here for it all. Let’s innovate together!
