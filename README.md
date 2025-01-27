@@ -24,7 +24,7 @@ Constantly pushing my limits, currently diving deep into Microsoft Azure, aiming
 ## 🛠️ Tech Stack
 
 - **Languages:** C#, Java, PHP, Dart
-- **Frameworks:** .NET 8, Web API 2, Entity Framework, Blazor
+- **Frameworks:** .NET 8, Web API 2, Entity Framework, Angular, Blazor
 - **Tools:** MSSQL, MySQL, SQLite, Microsoft Azure, PowerBI
 
 ## 📈 My Work
